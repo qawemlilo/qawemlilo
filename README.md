@@ -1,6 +1,6 @@
-Sanibonani 👋🏾 (Hello in Zulu)
+### Sanibonani 👋🏾 (Hello in isiZulu)
 
-I'm Qawelesizwe Mlilo, you can just call me Q. I'm a South African based Software Developer. I work remotely for a UK based Startup.
+Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. I build business information systems for fun and profit.
 
 
 [Get in touch](mailto:qawemlilo@gmail.com)
