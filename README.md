@@ -1,4 +1,4 @@
-### Sanibonani 👋🏾 [?](https://en.wiktionary.org/wiki/sanibonani)
+### Sanibonani 👋🏾  [?](https://en.wiktionary.org/wiki/sanibonani)
 
 Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. I write code for fun and profit.
 
