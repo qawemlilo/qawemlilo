@@ -2,7 +2,7 @@
 
 Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. I build business information systems for fun and profit.
 
-### Checkout my uptime Event Emitter npm module
+Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor), my uptime event emitter.
 
 
 #### Installation 
