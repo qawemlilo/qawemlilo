@@ -39,5 +39,3 @@ monitor.on('error', function (error, state) {
 });
 ```
 
-Link: [qawemlilo/ping-monitor](https://github.com/qawemlilo/ping-monitor)
-
