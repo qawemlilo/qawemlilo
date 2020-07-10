@@ -1,6 +1,6 @@
 ### Sanibonani 👋🏾 (Hello in isiZulu)
 
-Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. I build business information systems for fun and profit.
+Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. I write code for fun and profit.
 
 Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor), my uptime event emitter.
 
@@ -10,6 +10,8 @@ Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor), my uptime ev
 ```
 npm install ping-monitor
 ```
+
+#### How to use 
 
 ```javascript
 const UptimeMonitor = require('ping-monitor');
