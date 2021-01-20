@@ -18,7 +18,13 @@ const UptimeMonitor = require('ping-monitor');
 
 const monitor = new UptimeMonitor({
     website: 'http://github.com',
-    interval: 10 // minutes
+    interval: 10,
+    config: {
+      intervalUnits: 'minutes'
+    },
+    expect: {
+      statusCode: 200
+    }
 });
 
 
