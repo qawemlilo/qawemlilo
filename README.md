@@ -17,7 +17,8 @@ npm install ping-monitor
 const UptimeMonitor = require('ping-monitor');
 
 const monitor = new UptimeMonitor({
-    website: 'http://github.com',
+    address: 'https://github.com',
+    protocol: 'http',
     interval: 10,
     config: {
       intervalUnits: 'minutes'
@@ -29,15 +30,19 @@ const monitor = new UptimeMonitor({
 
 
 monitor.on('up', function (res, state) {
-  console.log('%s is up', state.website);
+  console.log('%s is up', state.address);
 });
 
 monitor.on('down', function (res, state) {
-  console.log('%s is down', state.website);
+  console.log('%s is down', state.address);
+});
+
+monitor.on('restored', function (res, state) {
+  console.log('%s has been restored', state.address);
 });
 
 monitor.on('timeout', function (error, state) {
-  console.log('%s timed out', state.website);
+  console.log('%s timed out', state.address);
 });
 
 monitor.on('error', function (error, state) {
