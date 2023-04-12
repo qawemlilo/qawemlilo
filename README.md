@@ -7,7 +7,8 @@ Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. 
 <table style="border: none;vertical-align:top;">
 <tr style="border: none;">
 <td style="border: none;" width="50%">
-Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor), an uptime event emitter that I use to monitor my websites and APIs.
+    
+Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor) , an uptime event emitter that I use to monitor my websites and APIs.
 
 
 #### Installation 
