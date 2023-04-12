@@ -4,7 +4,7 @@ Hi, I'm Qawelesizwe Mlilo(or just Q), a South African based Software Developer. 
 
 
 
-<table style="border: none;">
+<table style="border: none;vertical-align:top;">
 <tr style="border: none;">
 <td style="border: none;" width="50%">
 Checkout [ping-monitor](https://github.com/qawemlilo/ping-monitor), an uptime event emitter that I use to monitor my websites and APIs.
@@ -56,7 +56,7 @@ monitor.on('error', function (error, state) {
 ```
 </td>
 
-<td style="border: none;vertical-align: top;" width="40%">
+<td style="border:none;vertical-align:top;" width="40%">
 
 
 ### Recent Blog Posts
