@@ -56,7 +56,7 @@ monitor.on('error', function (error, state) {
 ```
 </td>
 
-<td style="border: none;" width="40%">
+<td style="border: none;vertical-align: top;" width="40%">
 
 
 ### Recent Blog Posts
